@@ -10,4 +10,4 @@
 8. Sanket Teli-2nd year ECE branch
 9. Anjalika Agarwal - Hey there! I'm Anjalika from CSE 2nd year.
 10. Parth Lanjewar - Hello everyone, I'm Parth from CSE-3rd Sem. I am a day scholar.
-11.Vishnu sai teja - I'm teja of 2nd year,CSE branch.
+11. Vishnu sai teja - I'm teja of 2nd year,CSE branch.
